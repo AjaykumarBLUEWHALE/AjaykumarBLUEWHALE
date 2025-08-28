@@ -60,7 +60,7 @@ const Ajay = {
 ---
 
 🤝 Let’s Connect
-🌐 [Portfolio](https://ajaykumarbluewhale.github.io/My_portfolio/)
+🌐 <a href="https://ajaykumarbluewhale.github.io/My_portfolio/">Portfolio</a>
 💼 [LinkedIn](https://www.linkedin.com/in/ajay-kumar-901150269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 🐦 [Twitter/X](https://x.com/ZZyrical?t=8aumuiNwPpaInIZkMTdIEw&s=09)
 📬 Open to collaborations, cool projects, or just a geeky chat!
@@ -69,10 +69,3 @@ const Ajay = {
 ---
 
 💡 “Code is temporary, impact is forever.”
-
----
-
-⚠️ Just one thing: replace `AjayKumar` in the stats image links with your actual GitHub **username** (the exact spelling from your profile).  
-
-Do you want me to **add some animated typing banners / visitor counter badges** to make it even flashier?
-
