@@ -1,0 +1,61 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <radialGradient id="glowCyan" cx="20%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowMagenta" cx="80%" cy="70%" r="60%">
+      <stop offset="0%" stop-color="#FF3D81" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF3D81" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F5D4"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#FF3D81"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <circle cx="220" cy="120" r="300" fill="url(#glowCyan)"/>
+  <circle cx="980" cy="260" r="300" fill="url(#glowMagenta)"/>
+
+  <g opacity="0.45" filter="url(#softGlow)">
+    <path d="M-50 280 C 200 220, 450 340, 700 240 S 1150 220, 1300 300" stroke="#00F5D4" stroke-width="2" fill="none"/>
+    <path d="M-50 240 C 180 180, 420 260, 720 190 S 1080 200, 1300 260" stroke="#7C3AED" stroke-width="2" fill="none"/>
+    <path d="M-50 200 C 180 140, 420 220, 720 150 S 1080 160, 1300 220" stroke="#FF3D81" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Edit initials here -->
+  <g filter="url(#neon)">
+    <text x="70" y="220" font-size="180" font-weight="900" font-family="Segoe UI, Poppins, Inter, Arial, sans-serif" fill="url(#textGrad)" letter-spacing="2">AK</text>
+  </g>
+
+  <!-- Edit name/title here -->
+  <g>
+    <text x="300" y="190" font-size="44" font-weight="800" font-family="Segoe UI, Poppins, Inter, Arial, sans-serif" fill="#E5E7EB" letter-spacing="0.5">Ajay Kumar</text>
+    <text x="300" y="230" font-size="20" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#9CA3AF">Full Stack Developer — React • Node.js • Express • MongoDB</text>
+  </g>
+</svg>
