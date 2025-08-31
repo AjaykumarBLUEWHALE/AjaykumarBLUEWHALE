@@ -1,6 +1,6 @@
-<!-- Header banner (optional, looks nice) -->
+<!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1e3a8a&height=120&section=header&text=Ajay%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a3e635,100:f59e0b&height=120&section=header&text=Ajay%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&animation=fadeIn" alt="Header" />
 </p>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="28" alt="wave" /> I'm Ajay Kumar</h1>
@@ -8,13 +8,13 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AjaykumarBLUEWHALE&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=AjaykumarBLUEWHALE&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://komarev.com/ghpvc/?username=AjaykumarBLUEWHALE&label=Profile%20views&color=22d3ee&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=AjaykumarBLUEWHALE&label=Profile%20views&color=22d3ee&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -84,10 +84,10 @@ Full stack developer
 ### Badges
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/github/followers/AjaykumarBLUEWHALE?logo=github&style=for-the-badge&color=0891b2&labelColor=1e3a8a" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/AjaykumarBLUEWHALE?logo=github&style=for-the-badge&color=22d3ee&labelColor=0b1220" alt="GitHub followers" />
   </a>
   <a href="https://x.com/ZZyrical" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/twitter/follow/ZZyrical?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1e3a8a" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/ZZyrical?logo=twitter&style=for-the-badge&color=a3e635&labelColor=0b1220" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -95,35 +95,35 @@ Full stack developer
 
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-stats.vercel.app/api?username=AjaykumarBLUEWHALE&show_icons=true&count_private=true&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=1e3a8a&hide_border=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AjaykumarBLUEWHALE&show_icons=true&count_private=true&title_color=22D3EE&text_color=A3E635&icon_color=F59E0B&bg_color=0B1220&hide_border=true" alt="GitHub stats" />
   </a>
 </p>
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaykumarBLUEWHALE&stroke=f97316&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" alt="GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaykumarBLUEWHALE&stroke=F59E0B&background=0B1220&ring=22D3EE&fire=E11D48&currStreakNum=A3E635&currStreakLabel=F59E0B&sideNums=A3E635&sideLabels=A3E635&dates=22D3EE&hide_border=true" alt="GitHub streak" />
   </a>
 </p>
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaykumarBLUEWHALE&layout=compact&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaykumarBLUEWHALE&layout=compact&langs_count=10&title_color=22D3EE&text_color=A3E635&icon_color=F59E0B&bg_color=0B1220&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </p>
 
-<!-- Trophies (fun, visual) -->
+<!-- Trophies -->
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AjaykumarBLUEWHALE&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AjaykumarBLUEWHALE&theme=matrix&no-frame=true&no-bg=true&margin-w=10" alt="trophy" />
   </a>
 </p>
 
-<!-- Activity graph (visualization) -->
+<!-- Activity graph -->
 <p>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaykumarBLUEWHALE&theme=react-dark&bg_color=1e3a8a&color=f97316&line=0891b2&point=f97316&area=true&hide_border=true" alt="Activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaykumarBLUEWHALE&bg_color=0B1220&color=A3E635&line=22D3EE&point=E11D48&area=true&hide_border=true" alt="Activity graph" />
   </a>
 </p>
 
-<!-- Footer wave (optional) -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0891b2&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:22d3ee,100:a3e635&height=100&section=footer" alt="footer" />
 </p>
