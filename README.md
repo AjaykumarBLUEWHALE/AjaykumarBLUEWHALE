@@ -1,68 +1,75 @@
-<!-- Custom Cyberpunk Neon Hero -->
+<!-- Cover -->
 <p align="center">
-  <img src="./assets/hero-ak.svg" alt="Ajay Kumar — Cyberpunk Neon Hero" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHutpbAHvR9EQ/profile-displaybackgroundimage-shrink_200_800/B56ZjGunTIHcAY-/0/1755680767680?e=2147483647&v=beta&t=8seZ8Bb8mzcAgwcCXr_lV37JqzFfDemIAM_W_vSifR4" alt="Ajay Kumar — Cover" width="100%" />
 </p>
 
-<!-- Typing headline -->
+<!-- Welcome -->
+<h1 align="center">
+  Welcome <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="28" /> I’m Ajay Kumar
+</h1>
+<p align="center">
+  Full‑Stack Developer · Delhi, India
+</p>
+
+<!-- Typing intro -->
 <p align="center">
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&center=true&vCenter=true&width=1000&lines=Design-first%20Engineer%20%7C%20React%20%2B%20Node.js%20%2B%20Express%20%2B%20MongoDB;Interfaces%20that%20feel%20crafted%2C%20systems%20that%20scale;Based%20in%20Delhi%20%7C%20Open%20to%20collaboration" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&center=true&vCenter=true&width=900&lines=Design‑first+Engineer+%7C+React+%2B+Node.js+%2B+Express+%2B+MongoDB;Interfaces+that+feel+crafted%2C+systems+that+scale;Open+to+collaboration" alt="Typing intro" />
   </a>
 </p>
 
-<!-- Socials -->
+<!-- Socials / Contact -->
 <p align="center">
   <a href="mailto:ajaykumar8752124@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ajaykumar8752124%40gmail.com-00F5D4?style=for-the-badge&labelColor=0B0F19&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ajaykumar8752124%40gmail.com-0EA5E9?style=for-the-badge&labelColor=0B1220&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AjaykumarBLUEWHALE" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/GitHub-AjaykumarBLUEWHALE-7C3AED?style=for-the-badge&labelColor=0B0F19&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-AjaykumarBLUEWHALE-7C3AED?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/ZZyrical" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/X-@ZZyrical-FF3D81?style=for-the-badge&labelColor=0B0F19&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@ZZyrical-0891B2?style=for-the-badge&labelColor=0B1220&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ajay-kumar-901150269" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Kumar-FFD60A?style=for-the-badge&labelColor=0B0F19&logo=linkedin&logoColor=0B0F19" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Kumar-0EA5E9?style=for-the-badge&labelColor=0B1220&logo=linkedin" />
   </a>
   <a href="https://www.youtube.com/@zackzyrical" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/YouTube-@zackzyrical-00F5D4?style=for-the-badge&labelColor=0B0F19&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-@zackzyrical-F87171?style=for-the-badge&labelColor=0B1220&logo=youtube&logoColor=white" />
   </a>
 </p>
 
-<!-- Neon divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:FF3D81,50:7C3AED,100:00F5D4&section=footer&text=&fontSize=0" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0EA5E9,50:7C3AED,100:F59E0B&section=footer&text=&fontSize=0" alt="divider" />
 </p>
 
 ## About
-I build robust, design-forward web apps. My focus is on thoughtful interfaces, predictable state management, and backends that scale without drama.
+I build robust, design‑forward web apps. I focus on thoughtful interfaces, predictable state, and backends that scale.
 
-- Location: Delhi  
-- Contact: **ajaykumar8752124@gmail.com**  
-- Currently learning: **Node.js** (deepening backend fundamentals)  
-- Collaboration: Available for interesting projects
+- 🌍 Based in Delhi  
+- ✉️ Reach me at: **ajaykumar8752124@gmail.com**  
+- 🧠 Currently learning: **Node.js**  
+- 🤝 Open to collaborate on **interesting projects**
 
 > “Make it simple. Make it memorable. Make it inviting to look at.” — Paul Rand
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AjaykumarBLUEWHALE&label=Profile%20Views&color=00F5D4&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Building%20beautiful%20frontends%20%26%20solid%20backends-7C3AED?style=flat-square&labelColor=0B0F19" alt="status" />
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:F59E0B,50:0EA5E9,100:7C3AED&section=footer&text=&fontSize=0" alt="divider" />
 </p>
 
-<!-- Neon divider -->
+## Skills
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFD60A,50:7C3AED,100:FF3D81&section=footer&text=&fontSize=0" alt="divider" />
-</p>
-
-## Tech • Design Stack
-<p align="center">
+  <!-- Dev -->
   <img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,express,mongodb,git,github,html,css,sass,tailwind,bootstrap" />
   <br/>
+  <!-- Design -->
   <img src="https://skillicons.dev/icons?i=figma,ps,blender" />
   <br/>
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
+<!-- Alternate icon set (kept for completeness) -->
 <details>
   <summary><b>Alternate Icon Set</b></summary>
   <p align="left">
@@ -84,9 +91,9 @@ I build robust, design-forward web apps. My focus is on thoughtful interfaces, p
   </p>
 </details>
 
-<!-- Neon divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:00F5D4,50:7C3AED,100:FFD60A&section=footer&text=&fontSize=0" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:7C3AED,50:0EA5E9,100:F59E0B&section=footer&text=&fontSize=0" alt="divider" />
 </p>
 
 ## Featured Project
@@ -94,62 +101,40 @@ I build robust, design-forward web apps. My focus is on thoughtful interfaces, p
   <tr>
     <td>
       <a href="https://github.com/AjaykumarBLUEWHALE/E-COMMERCE_WEBSITE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjaykumarBLUEWHALE&repo=E-COMMERCE_WEBSITE&title_color=FF3D81&text_color=94A3B8&icon_color=00F5D4&bg_color=0B0F19&hide_border=true" alt="E-COMMERCE_WEBSITE pin" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjaykumarBLUEWHALE&repo=E-COMMERCE_WEBSITE&title_color=0EA5E9&text_color=94A3B8&icon_color=F59E0B&bg_color=0B1220&hide_border=true" alt="E-COMMERCE_WEBSITE pin" />
       </a>
     </td>
     <td>
       <b>E‑Commerce (React)</b><br/>
-      Category views, product details, cart, wishlist, accessories, and custom animated UI.  
-      Stack: React, React Router, CSS/SVG, dynamic JSON catalog.
+      Category pages, product detail views, cart, wishlist, accessories, and custom animated UI.<br/>
+      <i>Stack:</i> React, React Router, CSS/SVG, dynamic JSON catalog.
     </td>
   </tr>
 </table>
 
-<!-- Neon divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF3D81,50:FFD60A,100:00F5D4&section=footer&text=&fontSize=0" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:F59E0B,50:7C3AED,100:0EA5E9&section=footer&text=&fontSize=0" alt="divider" />
 </p>
 
-## Metrics • Activity
+## GitHub Stats
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-stats.vercel.app/api?username=AjaykumarBLUEWHALE&show_icons=true&count_private=true&title_color=FF3D81&text_color=94A3B8&icon_color=00F5D4&bg_color=0B0F19&hide_border=true" alt="GitHub stats" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AjaykumarBLUEWHALE&stroke=FFD60A&background=0B0F19&ring=7C3AED&fire=FF3D81&currStreakNum=94A3B8&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=00F5D4&hide_border=true" alt="GitHub streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AjaykumarBLUEWHALE&show_icons=true&count_private=true&title_color=0EA5E9&text_color=94A3B8&icon_color=F59E0B&bg_color=0B1220&hide_border=true" alt="GitHub stats" />
   </a>
 </p>
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaykumarBLUEWHALE&layout=compact&langs_count=10&title_color=00F5D4&text_color=94A3B8&icon_color=FFD60A&bg_color=0B0F19&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AjaykumarBLUEWHALE&stroke=F59E0B&background=0B1220&ring=0EA5E9&fire=F59E0B&currStreakNum=94A3B8&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="GitHub streak" />
   </a>
 </p>
-
-<!-- Activity Graph -->
 <p>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaykumarBLUEWHALE&bg_color=0B0F19&color=94A3B8&line=FF3D81&point=00F5D4&area=true&hide_border=true" alt="Activity graph" />
+  <a href="https://github.com/AjaykumarBLUEWHALE">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaykumarBLUEWHALE&layout=compact&langs_count=10&title_color=0EA5E9&text_color=94A3B8&icon_color=F59E0B&bg_color=0B1220&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
-</p>
-
-<!-- Snake animation -->
-## Contributions
-<p>
-  <img src="https://raw.githubusercontent.com/AjaykumarBLUEWHALE/AjaykumarBLUEWHALE/output/snake.svg" alt="Contribution Snake" />
-</p>
-
-<!-- Neon divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:7C3AED,50:FF3D81,100:00F5D4&section=footer&text=&fontSize=0" alt="divider" />
 </p>
 
 ## Contact
 - Email: **ajaykumar8752124@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/ajay-kumar-901150269**  
 - X (Twitter): **https://x.com/ZZyrical**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:00F5D4,50:7C3AED,100:FF3D81&section=footer&text=Design%20%2B%20Engineering&fontColor=ffffff&fontSize=16" alt="footer tagline" />
-</p>
