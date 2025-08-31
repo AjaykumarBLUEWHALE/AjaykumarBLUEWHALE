@@ -1,6 +1,6 @@
 <!-- Custom Cyberpunk Neon Hero -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQH9NzCZFd00ZQ/profile-displayphoto-scale_200_200/B56ZjGuyg1HMAg-/0/1755680813999?e=2147483647&v=beta&t=hI5s1XZrowMn_x-J753MgYcSPUJLvwQLJ3n1L2qwFg0" alt="Ajay Kumar — Cyberpunk Neon Hero" />
+  <img src="./assets/hero-ak.svg" alt="Ajay Kumar — Cyberpunk Neon Hero" />
 </p>
 
 <!-- Typing headline -->
