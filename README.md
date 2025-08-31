@@ -13,9 +13,10 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&center=true&vCenter=true&width=900&lines=Design‑first+Engineer+%7C+React+%2B+Node.js+%2B+Express+%2B+MongoDB;Interfaces+that+feel+crafted%2C+systems+that+scale;Open+to+collaboration" alt="Typing intro" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+Express+%2B+MongoDB;Design-first+Engineer;Open+to+collaboration"
+    alt="Typing intro"
+  />
 </p>
 
 <!-- Socials / Contact -->
