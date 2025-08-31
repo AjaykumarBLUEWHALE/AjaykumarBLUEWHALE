@@ -1,129 +1,137 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a3e635,100:f59e0b&height=120&section=header&text=Ajay%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:f4c542,100:ef4444&height=140&section=header&text=Ajay%20Kumar%20🏴‍☠️&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%7C%20One%20Piece%20Themed&descAlignY=55&animation=fadeIn" alt="Header" />
 </p>
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="28" alt="wave" /> I'm Ajay Kumar</h1>
+<h1 align="center">Yo-ho-ho! I'm Ajay Kumar ⛵️</h1>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&color=F4C542&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+from+Delhi;Ship%3A+React+%2B+Node.js+%2B+Express+%2B+MongoDB;Dream%3A+King+of+the+Pirates+(of+Code);Haki%3A+Problem+Solving+%7C+Clean+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AjaykumarBLUEWHALE&label=Profile%20views&color=22d3ee&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=AjaykumarBLUEWHALE&label=Profile%20views&color=22d3ee&style=flat" alt="profile views" />
+  <a href="https://komarev.com/ghpvc/?username=AjaykumarBLUEWHALE&label=Bounty%20(Posters%20Seen)&color=f4c542&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=AjaykumarBLUEWHALE&label=Bounty%20(Posters%20Seen)&color=f4c542&style=flat" alt="profile views" />
   </a>
 </p>
 
-Full stack developer
---------------------
+---
 
-- 🌍 Based in Delhi  
-- ✉️ Reach me at: **[ajaykumar8752124@gmail.com](mailto:ajaykumar8752124@gmail.com)**  
-- 🧠 Currently learning: **Node.js**  
-- 👥 Open to collaborate on **interesting projects**
+## ☠️ Jolly Roger (About Me)
+- 🌍 Base: Delhi  
+- ✉️ Den Den Mushi: **[ajaykumar8752124@gmail.com](mailto:ajaykumar8752124@gmail.com)**  
+- 🧠 Training Arc: **Node.js**  
+- 👥 Looking for Nakama on **interesting projects**  
+- 🍖 Fuel: Coffee + Code + Meat-on-the-bone
 
-### Skills
+> “I don’t wanna conquer anything. I just think the guy with the most freedom in this whole ocean… is the Pirate King.” — Luffy
+
+---
+
+## ⚓ Straw Hat Toolbox (Skills)
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-  <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a>
-  <a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" title="Node.js" width="36" height="36" /></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind" title="Tailwind" width="36" height="36" /></a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
+  <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
 </p>
 
-### Socials
+---
+
+## 🗺️ Voyage Log (Projects)
+- 🏴‍☠️ E‑Commerce Website (React):  
+  https://github.com/AjaykumarBLUEWHALE/E-COMMERCE_WEBSITE  
+  Stack: React, React Router, custom UI components, SVG icons
+
+---
+
+## 🧭 Find Me on the Grand Line (Socials)
 <p align="left">
   <a href="https://github.com/AjaykumarBLUEWHALE" target="_blank" rel="noreferrer noopener">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="34" height="34" alt="GitHub" />
     </picture>
   </a>
   <a href="https://x.com/ZZyrical" target="_blank" rel="noreferrer noopener">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter/X" title="Twitter/X" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="34" height="34" alt="Twitter/X" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/ajay-kumar-901150269" target="_blank" rel="noreferrer noopener">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="34" height="34" alt="LinkedIn" />
     </picture>
   </a>
   <a href="https://www.youtube.com/@zackzyrical" target="_blank" rel="noreferrer noopener">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="34" height="34" alt="YouTube" />
     </picture>
   </a>
 </p>
 
-### Badges
-<p>
-  <a href="https://github.com/AjaykumarBLUEWHALE" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/github/followers/AjaykumarBLUEWHALE?logo=github&style=for-the-badge&color=22d3ee&labelColor=0b1220" alt="GitHub followers" />
-  </a>
-  <a href="https://x.com/ZZyrical" target="_blank" rel="noreferrer noopener">
-    <img src="https://img.shields.io/twitter/follow/ZZyrical?logo=twitter&style=for-the-badge&color=a3e635&labelColor=0b1220" alt="Twitter Follow" />
-  </a>
-</p>
+---
 
-<b>My GitHub Stats</b>
-
+## 🎯 Bounty Board (Stats)
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-stats.vercel.app/api?username=AjaykumarBLUEWHALE&show_icons=true&count_private=true&title_color=22D3EE&text_color=A3E635&icon_color=F59E0B&bg_color=0B1220&hide_border=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AjaykumarBLUEWHALE&show_icons=true&count_private=true&title_color=F4C542&text_color=B8E8FF&icon_color=EF4444&bg_color=071227&hide_border=true" alt="GitHub stats" />
   </a>
 </p>
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaykumarBLUEWHALE&stroke=F59E0B&background=0B1220&ring=22D3EE&fire=E11D48&currStreakNum=A3E635&currStreakLabel=F59E0B&sideNums=A3E635&sideLabels=A3E635&dates=22D3EE&hide_border=true" alt="GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjaykumarBLUEWHALE&stroke=EF4444&background=071227&ring=F4C542&fire=EF4444&currStreakNum=B8E8FF&currStreakLabel=F4C542&sideNums=B8E8FF&sideLabels=B8E8FF&dates=60A5FA&hide_border=true" alt="GitHub streak" />
   </a>
 </p>
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaykumarBLUEWHALE&layout=compact&langs_count=10&title_color=22D3EE&text_color=A3E635&icon_color=F59E0B&bg_color=0B1220&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaykumarBLUEWHALE&layout=compact&langs_count=10&title_color=F4C542&text_color=B8E8FF&icon_color=EF4444&bg_color=071227&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </p>
 
 <!-- Trophies -->
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AjaykumarBLUEWHALE&theme=matrix&no-frame=true&no-bg=true&margin-w=10" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AjaykumarBLUEWHALE&theme=dracula&no-frame=true&margin-w=10" alt="trophy" />
   </a>
 </p>
 
 <!-- Activity graph -->
 <p>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaykumarBLUEWHALE&bg_color=0B1220&color=A3E635&line=22D3EE&point=E11D48&area=true&hide_border=true" alt="Activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaykumarBLUEWHALE&bg_color=071227&color=F4C542&line=0EA5E9&point=EF4444&area=true&hide_border=true" alt="Activity graph" />
   </a>
 </p>
 
-<!-- Footer -->
+---
+
+## 🏝️ Treasure Chest (Contact)
+- Email: **ajaykumar8752124@gmail.com**  
+- Open to collab: Frontend/Full‑stack projects, React + Node.js
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:22d3ee,100:a3e635&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4c542,50:0ea5e9,100:ef4444&height=100&section=footer" alt="footer" />
 </p>
+
+<sub>One Piece and all related names are trademarks of their respective owners. This README is a fan‑themed presentation.</sub>
