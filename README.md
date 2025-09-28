@@ -91,6 +91,18 @@ I build robust, design‑forward web apps. I focus on thoughtful interfaces, pre
       <i>Stack:</i> React, React Router, CSS/SVG, dynamic JSON catalog.
     </td>
   </tr>
+   <tr>
+    <td>
+      <a href="https://github.com/AjaykumarBLUEWHALE/Music.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjaykumarBLUEWHALE&repo=Music&title_color=0EA5E9&text_color=94A3B8&icon_color=F59E0B&bg_color=0B1220&hide_border=true" alt="E-COMMERCE_WEBSITE pin" />
+      </a>
+    </td>
+    <td>
+      <b>E‑Commerce (React)</b><br/>
+      Category pages, product detail views, cart, wishlist, accessories, and custom animated UI.<br/>
+      <i>Stack:</i> React, React Router, CSS/SVG, dynamic JSON catalog.
+    </td>
+  </tr>
 </table>
 
 <!-- Divider -->
