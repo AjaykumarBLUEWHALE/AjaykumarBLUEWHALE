@@ -94,7 +94,7 @@ I build robust, design‑forward web apps. I focus on thoughtful interfaces, pre
    <tr>
     <td>
       <a href="https://github.com/AjaykumarBLUEWHALE/Music.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjaykumarBLUEWHALE&repo=Music&title_color=0EA5E9&text_color=94A3B8&icon_color=F59E0B&bg_color=0B1220&hide_border=true" alt="Music player (React)" />
+        <img src="https://musicplayer-ruby.vercel.app/images/logo.png" alt="Music player (React)" />
       </a>
     </td>
     <td>
