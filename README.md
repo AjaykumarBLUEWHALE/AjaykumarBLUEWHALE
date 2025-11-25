@@ -130,3 +130,4 @@ I build robust, design‑forward web apps. I focus on thoughtful interfaces, pre
 - Email: **ajaykumar8752124@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/ajay-kumar-901150269**  
 - X (Twitter): **https://x.com/ZZyrical**
+- Instagram: **https://x.com/ZZyrical](https://www.instagram.com/zackzyrical/**
