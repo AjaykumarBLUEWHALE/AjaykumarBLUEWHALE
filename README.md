@@ -113,7 +113,7 @@ I build robust, design‑forward web apps. I focus on thoughtful interfaces, pre
 ## GitHub Stats
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-stats.vercel.app/api?username=AjaykumarBLUEWHALE&show_icons=true&count_private=true&title_color=0EA5E9&text_color=94A3B8&icon_color=F59E0B&bg_color=0B1220&hide_border=true" alt="GitHub stats" />
+    <img src="https://repository-images.githubusercontent.com/265886800/150b9a00-9d39-11ea-86e1-0216db52431a" alt="GitHub stats" />
   </a>
 </p>
 <p>
@@ -123,7 +123,7 @@ I build robust, design‑forward web apps. I focus on thoughtful interfaces, pre
 </p>
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaykumarBLUEWHALE&layout=compact&langs_count=10&title_color=0EA5E9&text_color=94A3B8&icon_color=F59E0B&bg_color=0B1220&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://almablog-media.s3.ap-south-1.amazonaws.com/MERN_Title_image_f86d24f764.png" alt="Top Languages" />
   </a>
 </p>
 
