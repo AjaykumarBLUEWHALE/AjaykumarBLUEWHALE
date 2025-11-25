@@ -82,7 +82,7 @@ I build robust, design‑forward web apps. I focus on thoughtful interfaces, pre
   <tr>
     <td>
       <a href="https://github.com/AjaykumarBLUEWHALE/E-COMMERCE_WEBSITE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjaykumarBLUEWHALE&repo=E-COMMERCE_WEBSITE&title_color=0EA5E9&text_color=94A3B8&icon_color=F59E0B&bg_color=0B1220&hide_border=true" alt="E-COMMERCE_WEBSITE pin" />
+        <img src="https://frdv.co/_next/static/media/frdv-logo.94dea3eb660c50542ae0869ac22dc3e8.png" alt="E-COMMERCE_WEBSITE pin" />
       </a>
     </td>
     <td>
