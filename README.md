@@ -113,7 +113,6 @@ I build robust, design‑forward web apps. I focus on thoughtful interfaces, pre
 ## GitHub Stats
 <p>
   <a href="https://github.com/AjaykumarBLUEWHALE">
-    <img src="https://repository-images.githubusercontent.com/265886800/150b9a00-9d39-11ea-86e1-0216db52431a" alt="GitHub stats" />
   </a>
 </p>
 <p>
